@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+.cont {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.Marq {
+  width: 3rem;
+  transition-duration: 100ms;
+  transition-timing-function: linear;
+}
